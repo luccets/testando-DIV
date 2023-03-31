@@ -5,6 +5,8 @@
 
 }
 
-.bg-green {background-color: #090;}
-.br-red {background-color: #900;}
-.bg-blue {background-color: blue;}
+.bg-green {background-color: rgb(0, 153, 0);}
+.bg-red {background-color: rgb(153, 0, 0);}
+.bg-blue {background-color: rgb(0, 0, 255);}
+
+
