@@ -1,10 +1,33 @@
-.container {
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
+/* reset da css */
+/* oque for colocado aki dentro vale para todos  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 
 }
 
+
+
+
+
+/* CONFIGS DOS QUADRADOS*/
+.container {
+    width: 200px;
+    height: 200px;
+    color: #fff;
+    margin: 20px 40px 60px 100px;
+    border: 5px solid #999;
+
+    /* espaçamento da letra com a borda  */
+    padding: 20px;
+
+    /* recalcula o tamanho do quadrado pra ficar igual no inicio */
+
+    box-sizing: border-box;
+}
+
+/* cor de cada quadrado*/ 
 .bg-green {background-color: rgb(0, 153, 0);}
 .bg-red {background-color: rgb(153, 0, 0);}
 .bg-blue {background-color: rgb(0, 0, 255);}
