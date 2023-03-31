@@ -2,5 +2,9 @@
     width: 200px;
     height: 200px;
     background-color: aqua;
-    
+
 }
+
+.bg-green {background-color: #090;}
+.br-red {background-color: #900;}
+.bg-blue {background-color: blue;}
